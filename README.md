@@ -4,8 +4,7 @@
   
 ![header](https://capsule-render.vercel.app/api?text=%20%20&fontSize=50&type=waving&color=gradient&height=65&section=header&animation=twinkling)
 ###  🌵 HELLO !
-![footer](https://capsule-render.vercel.app/api?text=%20%&fontSize=67&type=waving&color=gradient&height=65&section=footer&animation=twinkling)
-![header](https://capsule-render.vercel.app/api?text=%20%20&fontSize=50&type=waving&color=gradient&height=65&section=header&animation=twinkling)
+
 
 ###
 
@@ -17,7 +16,8 @@
   🚀 **React | Next.js** 로 웹/앱을 개발하고있어요 
   
 
-    
+![footer](https://capsule-render.vercel.app/api?text=%20%&fontSize=67&type=waving&color=gradient&height=65&section=footer&animation=twinkling)
+<!-- ![header](https://capsule-render.vercel.app/api?text=%20%20&fontSize=50&type=waving&color=gradient&height=65&section=header&animation=twinkling) -->
     
     
   
@@ -27,8 +27,8 @@
   
   <br />
   
-![footer](https://capsule-render.vercel.app/api?text=%20%&fontSize=67&type=waving&color=gradient&height=65&section=footer&animation=twinkling)
-![header](https://capsule-render.vercel.app/api?text=%20%20&fontSize=50&type=waving&color=gradient&height=65&section=header&animation=twinkling)
+<!-- ![footer](https://capsule-render.vercel.app/api?text=%20%&fontSize=67&type=waving&color=gradient&height=65&section=footer&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?text=%20%20&fontSize=50&type=waving&color=gradient&height=65&section=header&animation=twinkling) -->
    
     
   <br />
@@ -91,11 +91,14 @@
 
 ###
   
-  ![footer](https://capsule-render.vercel.app/api?text=%20%&fontSize=67&type=waving&color=gradient&height=65&section=footer&animation=twinkling)
-![header](https://capsule-render.vercel.app/api?text=%20%20&fontSize=50&type=waving&color=gradient&height=65&section=header&animation=twinkling)
+<!--   ![footer](https://capsule-render.vercel.app/api?text=%20%&fontSize=67&type=waving&color=gradient&height=65&section=footer&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?text=%20%20&fontSize=50&type=waving&color=gradient&height=65&section=header&animation=twinkling) -->
+  <br/>
+    <br/>
+    <br/>
   
   ###
   
-  Team | Uwreckcar 23.03~ | https://utm.works/
+  🚀 Team | Uwreckcar 23.03~ | https://utm.works/
   
   ![footer](https://capsule-render.vercel.app/api?text=%20%&fontSize=67&type=waving&color=gradient&height=65&section=footer&animation=twinkling)
