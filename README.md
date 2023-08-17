@@ -89,10 +89,10 @@
 
   
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0gunkim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=city_lights&locale=en&hide_border=true&order=1&custom_title=Goldenprevue" height="125" alt="stats graph" />  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=0gunkim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=city_lights&locale=en&hide_border=true&order=1&custom_title=0gunkim" height="125" alt="stats graph" />  <br>
   <img src="https://streak-stats.demolab.com?user=0gunkim&locale=en&mode=weekly&theme=city_lights&hide_border=true&border_radius=4&order=3" height="118" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0gunkim&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=city_lights&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0gunkim&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=city_lights&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div> -->
 
 ###
   
