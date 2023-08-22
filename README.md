@@ -10,10 +10,9 @@
 
 <!--   <div align=left>  -->
   
-### 👋 <br>
-  <br>
+
   
-  🚀 **React | Next.js** 로 웹/앱을 개발하고있어요 
+  
   
 
 <!-- ![footer](https://capsule-render.vercel.app/api?text=%20%&fontSize=67&type=waving&color=gradient&height=65&section=footer&animation=twinkling)
@@ -23,21 +22,17 @@
   
 <!--   </div> -->
 
-  ###
-  
-  <br />
+
   
 <!-- ![footer](https://capsule-render.vercel.app/api?text=%20%&fontSize=67&type=waving&color=gradient&height=65&section=footer&animation=twinkling)
 ![header](https://capsule-render.vercel.app/api?text=%20%20&fontSize=50&type=waving&color=gradient&height=65&section=header&animation=twinkling) -->
    
     
-  <br />
-  <br/>
-  
+ 
  
     
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
@@ -47,7 +42,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  /> -->
 <!--   <img width="12" /> -->
 </div>
 
@@ -89,8 +84,10 @@
 
   
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0gunkim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=city_lights&locale=en&hide_border=true&order=1&custom_title=0gunkim" height="125" alt="stats graph" />  <br>
-  <img src="https://streak-stats.demolab.com?user=0gunkim&locale=en&mode=weekly&theme=city_lights&hide_border=true&border_radius=4&order=3" height="118" alt="streak graph" /> <br>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=0gunkim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=city_lights&locale=en&hide_border=true&order=1&custom_title=0gunkim" height="125" alt="stats graph" />  <br> -->
+  
+<!--   <img src="https://streak-stats.demolab.com?user=0gunkim&locale=en&mode=weekly&theme=city_lights&hide_border=true&border_radius=4&order=3" height="118" alt="streak graph" /> <br> -->
+
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0gunkim&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=city_lights&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div> -->
 
