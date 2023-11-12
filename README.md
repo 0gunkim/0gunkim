@@ -2,13 +2,15 @@
 
 <div align="center">
   
-<!-- ![header](https://capsule-render.vercel.app/api?text=%20%20&fontSize=50&type=waving&color=gradient&height=65&section=header&animation=twinkling)
-###  🌵 HELLO !
+![header](https://capsule-render.vercel.app/api?text=%20%20&fontSize=50&type=waving&color=gradient&height=65&section=header&animation=twinkling)
+  
+  
+#### 🌵 HELLO !
 
 
-###
 
-<!--   <div align=left>  -->
+
+<div align=left>  
   
 
   
@@ -46,13 +48,11 @@
 <!--   <img width="12" /> -->
 </div>
 
-###
 
 <div align="center">
 
 </div>
 
-###
   <!--
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
   <img width="12" />
@@ -91,18 +91,14 @@
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0gunkim&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=city_lights&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div> -->
 
-###
+
   
-<!--   ![footer](https://capsule-render.vercel.app/api?text=%20%&fontSize=67&type=waving&color=gradient&height=65&section=footer&animation=twinkling)
-![header](https://capsule-render.vercel.app/api?text=%20%20&fontSize=50&type=waving&color=gradient&height=65&section=header&animation=twinkling) -->
-  <br/>
-    <br/>
-    <br/>
+   ![footer](https://capsule-render.vercel.app/api?text=%20%&fontSize=67&type=waving&color=gradient&height=65&section=footer&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?text=%20%20&fontSize=50&type=waving&color=gradient&height=65&section=header&animation=twinkling)
+
   
-  ###
-  
-  🚀 Team | Uwreckcar 23.03~04 | https://utm.works/
+  🚀 | Uwreckcar 23.03~04 | https://utm.works/
   
 
   
- <!-- ![footer](https://capsule-render.vercel.app/api?text=%20%&fontSize=67&type=waving&color=gradient&height=65&section=footer&animation=twinkling)
+![footer](https://capsule-render.vercel.app/api?text=%20%&fontSize=67&type=waving&color=gradient&height=65&section=footer&animation=twinkling)
